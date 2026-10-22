@@ -3,7 +3,7 @@ name: Safe to Deploy Check
 on:
   pull_request:
     branches:
-      - release/prod
+      - main
 
 jobs:
   deploy:
