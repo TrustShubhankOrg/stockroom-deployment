@@ -7,4 +7,4 @@ businessApplication:
 
      - name: TrustShubhankOrg/stockroom-backend
        commitHash: 81096c9a70fa0cbe49dd0d0b912c63dd661d816f
-       tag: v0.0.2
+       tag: v0.0.3
