@@ -1,10 +1,9 @@
 businessApplication:
-  name: ShubhankApplication
-  version: 1.4.1
-  assets:
-     - name: TrustShubhankOrg/stockroom-frontend
-       commitHash: 9a67be7166ad378f423dd7b3b41a1bdb4dfdb65d
-
-     - name: TrustShubhankOrg/stockroom-backend
-       commitHash: 81096c9a70fa0cbe49dd0d0b912c63dd661d816f
-       tag: v0.0.2
+  name: ShubhankApplication
+  version: 1.4.1
+  assets:
+    - name: TrustShubhankOrg/stockroom-frontend
+      commitHash: 9a67be7166ad378f423dd7b3b41a1bdb4dfdb65d
+    - name: TrustShubhankOrg/stockroom-backend
+      commitHash: 81096c9a70fa0cbe49dd0d0b912c63dd661d816f
+      tag: v0.0.2
