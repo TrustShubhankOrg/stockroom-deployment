@@ -1,5 +1,5 @@
 businessApplication:
-  name: ShubhankApplication
+  name: stockroom-app
   version: 1.4.1
   assets:
      - name: TrustShubhankOrg/stockroom-frontend
